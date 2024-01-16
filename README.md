@@ -1,4 +1,4 @@
-# Data and logging [here](https://honorable-gauge-f63.notion.site/isucon-1-6032b4d492874f96a9d9cbe38cde79c4)
+Data and logging [here](https://honorable-gauge-f63.notion.site/isucon-1-6032b4d492874f96a9d9cbe38cde79c4)
 
 # private-isu
 
