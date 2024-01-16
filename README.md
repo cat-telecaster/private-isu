@@ -1,5 +1,3 @@
-Data and logging [here](https://honorable-gauge-f63.notion.site/isucon-1-6032b4d492874f96a9d9cbe38cde79c4)
-
 # private-isu
 
 「[ISUCON](https://isucon.net)」は、LINE株式会社の商標または登録商標です。
